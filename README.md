@@ -24,7 +24,7 @@ You have to change s_dset_path and t_dset_path to the location of the dataset.
 label_c.txt consists of the full path to the image file and the class id
 Example from art of OfficeHome:
 
-/home/xxx/OfficeHome/Art/Alarm_Clock/00001.jpg 0
+/home/xxx/OfficeHome/Art/Alarm_Clock/00001.jpg 0 //
 /home/xxx/OfficeHome/Art/Alarm_Clock/00002.jpg 0
 /home/xxx/OfficeHome/Art/Alarm_Clock/00003.jpg 0
 /home/xxx/OfficeHome/Art/Alarm_Clock/00004.jpg 0
