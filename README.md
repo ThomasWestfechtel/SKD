@@ -1,5 +1,5 @@
-# KSD
-PyTorch Code for KSD -Combining inherent knowledge of vision-language models with unsupervised domain adaptation through self-knowledge distillation
+# SKD
+PyTorch Code for SKD -Combining inherent knowledge of vision-language models with unsupervised domain adaptation through self-knowledge distillation
 https://arxiv.org/abs/2312.04066
 
 ### Method overview
