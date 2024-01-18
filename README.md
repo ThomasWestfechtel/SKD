@@ -38,9 +38,9 @@ Example from art of OfficeHome:
 get_zs_predictions.py is for getting the zero predicions for the datasets
 
 ### Citation
-If you use KSD code please cite:
+If you use SKD code please cite:
 ```text
-@article{GSDE,
+@article{SKD,
   title={Combining inherent knowledge of vision-language models with unsupervised domain adaptation through self-knowledge distillation},
   author={Westfechtel, Thomas and Zhang, Dexuan and Harada, Tatsuya},
   journal={arXiv preprint arXiv:2312.04066},
