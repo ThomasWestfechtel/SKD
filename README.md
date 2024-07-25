@@ -1,4 +1,10 @@
 # SKD
+
+!!!! This is an outdated version !!!!
+For the updated version go to https://github.com/ThomasWestfechtel/SWG
+
+
+
 PyTorch Code for SKD -Combining inherent knowledge of vision-language models with unsupervised domain adaptation through self-knowledge distillation
 https://arxiv.org/abs/2312.04066
 
